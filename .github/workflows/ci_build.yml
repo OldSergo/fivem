@@ -5,7 +5,7 @@ on:
 
 permissions:
   packages: read
-#
+
 jobs:
   build_all:
     strategy:
